@@ -1,0 +1,1 @@
+This repository contains the full source code for a native Android application developed for the ICT602 Mobile Technology assignment. The application's purpose is to accurately calculate the Zakat payable amount for gold based on its weight, current market value, and designated category (Keeping or Wearing).
